@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1575120092 source:d:\윤태완\2019 2학기\자료구조\comp_sort\main.cpp
+	<iostream>
+	<algorithm>
+	<cstring>
+	<ctime>
+	<cstdio>
+	<string>
+	<fstream>
+
